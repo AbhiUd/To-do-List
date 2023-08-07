@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(214, 206, 206);
+}
+.main {
+    text-align: center;
+    border: aliceblue;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+   align-content: center;
+   margin-top: 12%;
+   background-color: rgb(226, 163, 183);
+   border-radius: 20px;
+   min-height: 100px;
+}
+.main button{
+    cursor: pointer;
+
+}
+.list{
+    list-style-type: none;
+    margin-right: 100px;
+    
+}
+.delBtn{
+    margin-left: 25px;
+}
+#clearBtn{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
